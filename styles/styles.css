@@ -311,16 +311,16 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
   width: 95%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+.about-stats .progress-bars .progress-bar .progress-con .progress .php {
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
+.about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
   width: 87%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
